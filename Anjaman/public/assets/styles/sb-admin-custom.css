@@ -1,0 +1,185 @@
+.flex-column .content .container-fluid .shadow .card-body form .form-group-cover .container-images-cover {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    gap: 20px;
+}
+  
+.flex-column .content .container-fluid .shadow .card-body form .form-group-cover .container-images-cover .form-group-images-gallery {
+    width: 140px;
+    height: 140px;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    border-radius: 12px;
+    background: #fff;
+    border: 2px dashed #aaaaaa;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    cursor: pointer;
+}
+  
+.flex-column .content .container-fluid .shadow .card-body form .form-group-cover .container-images-cover .form-group-images-gallery .image-placeholder {
+    position: absolute;
+    width: 135px;
+    height: 135px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+}
+  
+.flex-column .content .container-fluid .shadow .card-body form .form-group-cover .container-images-cover .form-group-images-gallery .image-placeholder img {
+    width: 100%;
+    height: 100%;
+    -o-object-fit: cover;
+       object-fit: cover;
+    border-radius: 12px;
+}
+  
+.flex-column .content .container-fluid .shadow .card-body form .form-group-cover .container-images-cover .form-group-images-gallery .file-placeholder {
+    width: 140px;
+    height: 140px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+}
+  
+.flex-column .content .container-fluid .shadow .card-body form .form-group-cover .container-images-cover .form-group-images-gallery .file-placeholder .content-image-upload {
+    margin-top: 12px;
+    height: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -ms-flex-line-pack: center;
+        align-content: center;
+    text-align: center;
+}
+  
+.flex-column .content .container-fluid .shadow .card-body form .form-group-cover .container-images-cover .form-group-images-gallery .file-placeholder .content-image-upload .fa-cloud-upload-alt {
+    font-size: 40px;
+}
+  
+.flex-column .content .container-fluid .shadow .card-body form .form-group-cover .container-images-cover .form-group-images-gallery .file-placeholder .close-btn {
+    position: absolute;
+    margin-left: 120px;
+    font-size: 16px;
+    display: none;
+}
+  
+.flex-column .content .container-fluid .shadow .card-body form .container-images-gallery {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    gap: 20px;
+}
+  
+.flex-column .content .container-fluid .shadow .card-body form .container-images-gallery .form-group-images-gallery {
+    width: 140px;
+    height: 140px;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    border-radius: 12px;
+    background: #fff;
+    border: 2px dashed #aaaaaa;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    cursor: pointer;
+}
+  
+.flex-column .content .container-fluid .shadow .card-body form .container-images-gallery .form-group-images-gallery .image-placeholder {
+    position: absolute;
+    width: 135px;
+    height: 135px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+}
+  
+.flex-column .content .container-fluid .shadow .card-body form .container-images-gallery .form-group-images-gallery .image-placeholder img {
+    width: 100%;
+    height: 100%;
+    -o-object-fit: cover;
+       object-fit: cover;
+    border-radius: 12px;
+}
+  
+.flex-column .content .container-fluid .shadow .card-body form .container-images-gallery .form-group-images-gallery .file-placeholder {
+    width: 140px;
+    height: 140px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+}
+  
+.flex-column .content .container-fluid .shadow .card-body form .container-images-gallery .form-group-images-gallery .file-placeholder .content-image-upload {
+    margin-top: 12px;
+    height: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -ms-flex-line-pack: center;
+        align-content: center;
+    text-align: center;
+}
+  
+.flex-column .content .container-fluid .shadow .card-body form .container-images-gallery .form-group-images-gallery .file-placeholder .content-image-upload .fa-cloud-upload-alt {
+    font-size: 40px;
+}
+  
+.flex-column .content .container-fluid .shadow .card-body form .container-images-gallery .form-group-images-gallery .file-placeholder .close-btn {
+    position: absolute;
+    margin-left: 120px;
+    font-size: 16px;
+    display: none;
+}
